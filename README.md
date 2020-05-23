@@ -1,4 +1,4 @@
-# A Whale Off the Port(folio)[![Binder][![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kowsi/Quantitative-Portfolio-Analysis/master)
+# A Whale Off the Port(folio)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kowsi/Quantitative-Portfolio-Analysis/master)
 
 ## Background
 
